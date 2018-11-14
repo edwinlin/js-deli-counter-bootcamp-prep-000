@@ -1,9 +1,9 @@
 function takeANumber(deliLine, newPerson){
-  deliLine.push(newPerson)
+  // deliLine.push(newPerson)
 
-  var welcomeMsg =`Welcome, ${newPerson}. You are number ${(deliLine.length)} in line.`
+  // var welcomeMsg =`Welcome, ${newPerson}. You are number ${(deliLine.length)} in line.`
   
-  return welcomeMsg
+  // return welcomeMsg
 }
 
 function nowServing(deliLine){
